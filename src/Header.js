@@ -19,7 +19,7 @@ function Header() {
   return (
     <div className="header">
       <Link to="/">
-        <img className="header__logo" src="https://cdn3.iconfinder.com/data/icons/drone-business/512/ambulance_drone-512.png" alt=""/>
+        <img className="header__logo" src="https://pngimg.com/uploads/book/small/book_PNG51104.png" alt=""/>
       </Link>
 
       <div className="header__search">
@@ -41,6 +41,12 @@ function Header() {
             <span className="header__optionLineTwo">& Orders</span>
           </div>
         </Link>
+        
+
+        <div className="header__option">
+          <span className="header__optionLineOne">Your</span>
+          <span className="header__optionLineTwo">Prime</span>
+        </div>
 
         <Link to="/checkout">
           <div className="header__optionBasket">
