@@ -11,70 +11,70 @@ function Home() {
 
                 <div className="home__row">
                     <Product 
-                    id="12321341"
-                    title="The Alchemist"
-                    price={500}
-                    image="https://images-na.ssl-images-amazon.com/images/I/410llGwMZGL._SX328_BO1,204,203,200_.jpg"
-                    rating={5}
+                    id="3254354345"
+                    title="Combiflam Plus"
+                    price={49.99}
+                    image="https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1600570651/cropped/zwbqj8ekwvxwej1z0dbq.png"
+                    // rating={3}
                     />
                     <Product 
                     id="49538094"
-                    title="A Glimpse Of Universe"
-                    price={220.00}
-                    image="https://m.media-amazon.com/images/I/91wUFiHq0zL._AC_UY218_.jpg"
-                    rating={5}
+                    title="Saridon Headache Relief Tablet"
+                    price={22.00}
+                    image="https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625733881/s0dcfx0trz6lf9zczab4.jpg"
+                    // rating={5}
                     />
                     <Product 
                     id="4903850"
-                    title="Stories We Never Tell"
-                    price={399.99}
-                    image="https://m.media-amazon.com/images/I/81dxL5k0sbL._AC_UY218_.jpg"
-                    rating={3}
+                    title="Crocin Pain Relief Tablet"
+                    price={54.99}
+                    image="https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1618596427/onav4rssxbdwvk1pedey.jpg"
+                    // rating={3}
                     />
                 </div>
 
                 <div className="home__row">
                     <Product 
                     id="23445930"
-                    title="Psychopathology of Everyday Life"
-                    price={100.00}
-                    image="https://m.media-amazon.com/images/I/71f2MpngVrL._AC_UY218_.jpg"
-                    rating={4}
+                    title="Himalaya Gasex Tablet"
+                    price={119.00}
+                    image="https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1600082949/cropped/khlk0or7gybqxtycxlyc.jpg"
+                    // rating={4}
                     />
                     <Product 
-                    id="3254354345"
-                    title="Attitude is Everything"
-                    price={490.99}
-                    image="https://m.media-amazon.com/images/I/710jnzKlDTL._AC_UY218_.jpg"
-                    rating={3}
+                    id="12321341"
+                    title="Nasivion Nasal Spray"
+                    price={75.80}
+                    image="https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1600110426/cropped/tw0ldub9wtmharc136eb.png"
+                    // rating={5}
                     />
                     <Product 
                     id="90829332"
-                    title="Journey to the Center of the Earth"
-                    price={300.00}
-                    image="https://m.media-amazon.com/images/I/81bJyJ3Dp-S._AC_UY218_.jpg"
-                    rating={4}
+                    title="Dabur Honitus"
+                    price={95.00}
+                    image="https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1633003268/wrxma0ev0xknqb0xjo6n.jpg"
+                    // rating={4}
                     />
                 </div>
 
                 <div className="home__row">
                     <Product 
-                    title="Atomic Habits"
-                    price={290.99}
-                    image="https://m.media-amazon.com/images/I/91bYsX41DVL._AC_UY218_.jpg"
-                    rating={3}
+                    title="Revital H Capsule"
+                    price={476.00}
+                    image="https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1625118755/lnokjri7seuxwnv2qbwy.jpg"
+                    // rating={3}
                     />
                     <Product 
-                    title="Beyond Happiness"
-                    price={190.99}
-                    image="https://m.media-amazon.com/images/I/61ubeoGLAOL._AC_UY218_.jpg"
-                    rating={3}
+                    title="Inlife Vitamin B12"
+                    price={479.99}
+                    image="https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1600177903/cropped/mzik3zmrcgmafcg0gdyr.png"
+                    // rating={3}
                     />
                     <Product 
-                    title="The Power of Your Subconscious Mind"
-                    price={190.99}
-                    image="https://m.media-amazon.com/images/I/71UwSHSZRnS._AC_UY218_.jpg"
-                    rating={5}
+                    title="Ciphands Anitseptic Hand Sanitizer"
+                    price={49.99}
+                    image="https://onemg.gumlet.io/image/upload/a_ignore,w_380,h_380,c_fit,q_auto,f_auto/v1601195754/cropped/ovdlbua17eqxvdn0gmgj.png"
+                    // rating={5}
                     />
                 </div>
             </div>

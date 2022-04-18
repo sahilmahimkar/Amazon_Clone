@@ -34,7 +34,7 @@ function Login() {
     return (
         <div className='login'>
             <Link to='/'>
-                <img className='login__logo' src='https://pngimg.com/uploads/book/small/book_PNG51104.png' alt=''></img>
+                <img className='login__logo' src='https://cdn3.iconfinder.com/data/icons/drone-business/512/ambulance_drone-512.png' alt=''></img>
             </Link>
 
             <div className='login__container'>
@@ -49,9 +49,9 @@ function Login() {
 
                     <button type='submit' onClick={signIn} className='login__signInButton'>Sign In</button>
                 </form>
-                <p>By signing-in you agree to AMAZON CLONE Conditions of Use & Sale. Please see our Privacy Notice, our Cookies Notice and our Interest-Based Ads Notice</p>
+                <p>By signing-in you agree to MediDrone Conditions of Use & Sale. Please see our Privacy Notice, our Cookies Notice and our Interest-Based Ads Notice</p>
 
-                <button onClick={register} className='login__registerButton'>Create your Amazon Account</button>
+                <button onClick={register} className='login__registerButton'>Create your MediDrone Account</button>
             </div>
         </div>
     )
